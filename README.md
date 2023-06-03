@@ -1,5 +1,6 @@
 # STSonifier
 
 # Creators
-- [Emil Sønderskov Hansen](https://github.com/esha1995)
+- [Nina Kapinska](https://github.com/karpi22)
+- [Michał Stępień](https://github.com/mstepien96)
 - [Simon Andersen](https://github.com/ThaDuyx)
