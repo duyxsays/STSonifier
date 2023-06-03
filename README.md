@@ -11,10 +11,11 @@ The purpose of the project was to sonify the detection of an elevated ST-segment
 
 ### Software
 - xCode or Visual Studio
-- JUCER
-- Faust
+- Projucer
 
 ### Frameworks
+- JUCE
+- Faust
 
 ### Supporting Files
 - ECG Data
