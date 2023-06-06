@@ -2,10 +2,8 @@
 Developed in C++, JUCE & Faust
 
 <p align="center">
-  <img width="200" heigh="150" src="https://github.com/ThaDuyx/STSonifier/blob/main/Images/STSonifier.jpeg?raw=true" />
+  <img width="200" heigh="150" src="https://github.com/ThaDuyx/STSonifier/blob/main/STSonifier/Images/STSonifier.png?raw=true"/>
 </p>
-
-https://github.com/ThaDuyx/STSonifier/edit/main/README.md
 
 ## Purpose of the project
 The purpose of the project was to sonify the detection of an elevated ST-segment that can be tracked during an ECG. The developed application explored the field of sonification. Specifically generating a suitable sound that can be used in an intensive care unit (ICU) .
