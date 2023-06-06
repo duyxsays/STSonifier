@@ -2,7 +2,7 @@
 Developed in C++, JUCE & Faust
 
 <p align="center">
-  <img width="200" heigh="150" src="https://github.com/ThaDuyx/STSonifier/blob/main/STSonifier/Images/STSonifier.png?raw=true"/>
+  <img width="400" heigh="150" src="https://github.com/ThaDuyx/STSonifier/blob/main/STSonifier/Images/STSonifier.png?raw=true"/>
 </p>
 
 ## Purpose of the project
